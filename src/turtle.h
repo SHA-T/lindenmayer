@@ -4,6 +4,8 @@
 #include <stack>
 #include "geometry.h"
 
+// Turtle graph header
+
 struct State
 {
     Point2D position;
@@ -14,7 +16,6 @@ struct State
 
 class Turtle
 {
-    // TODO: Add code here
 private:
     State state;
     std::stack<State> stack;

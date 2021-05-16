@@ -10,18 +10,18 @@ LindenmayerSystem::LindenmayerSystem(const std::string& name,
     name(name), degrees(degrees), initialWord(start), productions(productions)
 {}
 
+// Replaces a symbol by its production. Helper function of produceNextWord.
 std::string LindenmayerSystem::replaceSymbol(const char symbol)
 {
-    // TODO: Implement here
     auto iter = this->productions.find(symbol);
     if (iter != this->productions.end())
         return iter->second;
     return std::string(1, symbol);
 }
 
+// Given the current word it returns the next word. Helper function of produceNthWord.
 std::string LindenmayerSystem::produceNextWord(const std::string& word)
 {
-    // TODO: Implement here
     std::stringstream stream;
     for (const char& symbol : word) {
         stream << replaceSymbol(symbol);
@@ -30,9 +30,9 @@ std::string LindenmayerSystem::produceNextWord(const std::string& word)
     return result;
 }
 
+// Computes the resulting word after N iterations
 std::string LindenmayerSystem::produceNthWord(const int iterations)
 {
-    // TODO: Implement here
     std::string nthWord = this->initialWord;
     for (int i=0; i<iterations; ++i) {
         nthWord = produceNextWord(nthWord);

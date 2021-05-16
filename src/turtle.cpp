@@ -1,6 +1,6 @@
 #include "turtle.h"
 
-// TODO: Add code here
+// Turtle graph
 
 Turtle::Turtle() : state(), stack() {}
 

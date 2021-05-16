@@ -2,6 +2,8 @@
 
 #include "lindenmayersystem.h"
 
+// Main. Here you can add a few fractals to draw.
+
 int main()
 {
     std::filesystem::create_directory("results");
