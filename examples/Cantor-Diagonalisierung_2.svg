@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+ version="1.1" baseProfile="basic"
+ viewBox="-10 -31 65 61"
+ width="1280px" height="1024px"
+ stroke="white" stroke-width="1px"
+ fill="black" fill-opacity="0">
+<rect x="-10" y="-31" width="65" height="61" stroke-width="0px" fill-opacity="1"/>
+<path d="M0 0 L0 0 L5 0 L5 5 L10 5 L10 0 L5 -6.12323e-16 L5 -5 L10 -5 L10 -8.88178e-16 L15 -8.88178e-16 L15 5 L10 5 L10 10 L15 10 L15 5 L20 5 L20 10 L15 10 L15 15 L20 15 L20 20 L25 20 L25 15 L20 15 L20 10 L25 10 L25 15 L30 15 L30 10 L35 10 L35 5 L30 5 L30 10 L25 10 L25 5 L30 5 L30 0 L25 -6.12323e-16 L25 -5 L20 -5 L20 -1.77636e-15 L25 -5.5171e-16 L25 5 L20 5 L20 -1.77636e-15 L15 -2.38868e-15 L15 -5 L20 -5 L20 -10 L15 -10 L15 -5 L10 -5 L10 -10 L15 -10 L15 -15 L20 -15 L20 -10 L25 -10 L25 -15 L20 -15 L20 -20 L25 -20 L25 -15 L30 -15 L30 -10 L25 -10 L25 -5 L30 -5 L30 -10 L35 -10 L35 -5 L30 -5 L30 -2.66454e-15 L35 -2.66454e-15 L35 5 L40 5 L40 -2.66454e-15 L35 -3.27686e-15 L35 -5 L40 -5 L40 -3.55271e-15 L45 -3.55271e-15"/>
+</svg>

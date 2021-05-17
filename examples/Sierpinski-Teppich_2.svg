@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+ version="1.1" baseProfile="basic"
+ viewBox="-10 -31 65 62"
+ width="1280px" height="1024px"
+ stroke="white" stroke-width="1px"
+ fill="black" fill-opacity="0">
+<rect x="-10" y="-31" width="65" height="62" stroke-width="0px" fill-opacity="1"/>
+<path d="M0 0 L0 0 L5 0 L5 -5 L10 -5 L10 0 L10 5 L5 5 L5 8.88178e-16"/>
+<path d="M10 -3.36468e-16 L10 -3.36468e-16 L15 -1.56112e-15 L15 -5 L10 -5 L10 -10 L15 -10 L20 -10 L20 -5 L15 -5"/>
+<path d="M15 -10 L15 -10 L15 -15 L20 -15 L20 -20 L25 -20 L25 -15 L25 -10 L20 -10 L20 -15"/>
+<path d="M25 -15 L25 -15 L30 -15 L30 -10 L35 -10 L35 -5 L30 -5 L25 -5 L25 -10 L30 -10"/>
+<path d="M30 -5 L30 -5 L30 -1.06581e-14 L30 5 L35 5 L35 10 L30 10 L25 10 L25 5 L30 5"/>
+<path d="M30 10 L30 10 L30 15 L25 15 L25 20 L20 20 L20 15 L20 10 L25 10 L25 15"/>
+<path d="M20 15 L20 15 L15 15 L15 10 L10 10 L10 5 L15 5 L20 5 L20 10 L15 10"/>
+<path d="M15 5 L15 5 L15 8.88178e-15"/>
+<path d="M30 -2.05097e-14 L30 -2.05097e-14 L35 -3.03069e-14 L35 -5 L40 -5 L40 -3.9968e-14 L40 5 L35 5 L35 -2.93099e-14"/>
+<path d="M40 -4.03317e-14 L40 -4.03317e-14 L45 -5.13535e-14"/>
+</svg>

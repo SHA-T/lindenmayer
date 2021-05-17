@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+ version="1.1" baseProfile="basic"
+ viewBox="-16 -34 29 44"
+ width="1280px" height="1024px"
+ stroke="white" stroke-width="1px"
+ fill="black" fill-opacity="0">
+<rect x="-16" y="-34" width="29" height="44" stroke-width="0px" fill-opacity="1"/>
+<path d="M0 0 L0 0 L-0.868241 -4.92404 L-1.73648 -9.84808 L1.47746 -13.6783 L2.77155 -18.5079 L1.90331 -23.432"/>
+<path d="M-1.73648 -9.84808 L-1.73648 -9.84808 L-4.60436 -13.9438 L-5.4726 -18.8679"/>
+<path d="M-1.73648 -9.84808 L-1.73648 -9.84808"/>
+</svg>

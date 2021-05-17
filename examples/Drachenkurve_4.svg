@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+ version="1.1" baseProfile="basic"
+ viewBox="-10 -15 46 36"
+ width="1280px" height="1024px"
+ stroke="white" stroke-width="1px"
+ fill="black" fill-opacity="0">
+<rect x="-10" y="-15" width="46" height="36" stroke-width="0px" fill-opacity="1"/>
+<path d="M0 0 L0 0 L8.88178e-16 -5 L5 -5 L5 0 L10 0 L10 5 L5 5 L5 10 L10 10 L10 5 L15 5 L15 10 L20 10 L20 5 L25 5 L25 1.77636e-15 L20 4.44089e-16"/>
+</svg>

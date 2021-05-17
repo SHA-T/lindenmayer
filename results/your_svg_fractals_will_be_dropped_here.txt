@@ -1,0 +1,2 @@
+After running the program your fractals will be created as svg-files in this folder 'results'.
+In the folder 'examples' are some examples of common fractals.
