@@ -8,4 +8,5 @@ The results will be saved as svg-files in the 'results' folder. In the folder 'e
 This program was tested on
 - Fedora 33, 64-Bit
 - GCC 10
+
 but might also work on other versions
